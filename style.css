@@ -1,0 +1,40 @@
+/* code here */
+body{
+    background-color: #e5f4f9;
+}
+
+
+
+h1{
+    font-family:"Courgette";
+}
+
+.under{
+    padding: 10px;
+}
+
+
+h2{
+    font-family: "Courgette";
+}
+h4{
+    font-family: "Courgette";
+    font-weight: lighter;
+}
+
+
+.hand li{
+    list-style-type:"\1F449";
+}
+
+.mark{
+    list-style-type: "\2714";
+}
+
+h6{
+    text-decoration: wavy underline;
+}
+
+a:hover{
+    color: green;
+}
